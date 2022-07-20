@@ -19,4 +19,6 @@ My natural curiosity for computers is the driving force towards my computer scie
   Enjoy this daily programming joke:
  </div>
 
-
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
