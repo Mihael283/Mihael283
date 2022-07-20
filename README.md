@@ -10,12 +10,10 @@
   <h1>
   O, hi there!
   </h1>
-  ### I'm a final year student of computer engineering at FERIT Osijek.
+  <h2>I'm a final year student of computer engineering at FERIT Osijek.<h2>
 
   My natural curiosity for computers is the driving force towards my computer science degree. I’ve always been fascinated by computers and the technical mechanics behind the monitor. I also love tinkering with electronics and setting myself up with new challenges so that I can keep learning while having fun as well. My wish is to one day be involved in whole process of designing, programming and building functional robots that help people in their day to day tasks.
-
-
-  > If you're interested in the work I do, please consider sponsoring me on GitHub!
-</div>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    </div>
 
 
