@@ -1,1 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihae283)](https://github.com/Mihae283/github-readme-stats)
+<div id="header" align="center">
+  <img src="https://www.clipartmax.com/png/small/443-4434505_cry-sticker-pixel-cat-crying.png" width="100"/>
+</div>
