@@ -13,7 +13,8 @@
   <h2>I'm a final year student of computer engineering at FERIT Osijek.</h2>
   
 
-My natural curiosity for computers is the driving force towards my computer science degree. I’ve always been fascinated by computers and the technical mechanics behind the monitor. I also love tinkering with electronics and setting myself up with new challenges so that I can keep learning while having fun as well. My wish is to one day  be involved in whole process of designing, programming and building functional robots that help people in their day to day tasks.
+Will try to keep this short and simple : 
+I really love arduinos, raspberries, robotics, machine learning and I wish to work in a field that contains some of those.
   <br/>
   
   Enjoy this daily programming joke:
