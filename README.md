@@ -10,7 +10,7 @@
   <h1>
   O, hi there!
   </h1>
-  <h2>I'm a final year student of computer engineering at FERIT Osijek.</h2>
+  <h2>I'm a software engineer in Protostar Labs.</h2>
   
 
 Will try to keep this short and simple : 
