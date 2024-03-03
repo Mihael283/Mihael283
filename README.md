@@ -8,18 +8,14 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Mihae283&style=flat-square&color=blue" alt=""/>
   <h1>
-  O, hi there!
+  Hello hello!
   </h1>
-  <h2>I'm a software engineer in Protostar Labs.</h2>
+  <h2>My name is Mihael and currently I'm working as an R&D Engineer at Protostar Labs.</h2>
   
 
-Will try to keep this short and simple : 
-I really love arduinos, raspberries, robotics, machine learning and I wish to work in a field that contains some of those.
+I love exploring new technologies and challanges but my expertise so far could be put in these two catgories: Maching Learning and Python Software Development(Full Stack).
+
   <br/>
   
-  Enjoy this daily programming joke:
  </div>
 
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
