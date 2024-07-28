@@ -8,12 +8,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Mihae283&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hello hello!
+  Hi!
   </h1>
-  <h2>My name is Mihael and currently I'm working as an R&D Engineer at Protostar Labs.</h2>
+  <h2> My name is Mihael, and currently I'm working as an R&D Engineer at Protostar Labs, where we are utilising machine learning for solving problems in various industries. </h2>
   
 
-I love exploring new technologies and challanges but my expertise so far could be put in these two catgories: Maching Learning and Python Software Development(Full Stack).
+I love exploring new technologies and challenges, but my expertise so far could be put in these two categories: machine learning and Python software development (full stack).
 
   <br/>
   
