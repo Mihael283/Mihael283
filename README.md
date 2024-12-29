@@ -10,7 +10,7 @@
   <h1>
   Hi!
   </h1>
-  <h2> My name is Mihael, and currently I'm working as an R&D Engineer at Protostar Labs, where we are utilising machine learning for solving problems in various industries. </h2>
+  <h2> My name is Mihael, and currently I'm working as an Head of Engineering at Protostar Labs, where we are utilising machine learning for solving problems in various industries. </h2>
   
 
 I love exploring new technologies and challenges, but my expertise so far could be put in these two categories: machine learning and Python software development (full stack).
